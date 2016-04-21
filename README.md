@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/StarForces/Lang.svg)](https://gitter.im/StarForces/Lang?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Hello
 Feel free to view and edit our language files. These files are open source. Other files may be private.
 
